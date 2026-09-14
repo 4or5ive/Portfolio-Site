@@ -12,10 +12,10 @@ body {
     background-color: rgba(14, 14, 14, 1);
     padding: 10px;
     text-align: center;
-    flex: 1;
 }
 
 .Content {
     padding: 10px;
     text-align: center;
+    flex: 1;
 }
