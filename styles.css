@@ -1,15 +1,15 @@
 h1 {
-    color: rgba(45, 32, 156, 0.555);
+    color: rgb(64, 43, 255);
 }
 
 body {
-    background-color: rgba(255, 255, 255, 0.13);
+    background-color: rgb(255, 43, 43);
     display: flex;
     flex-direction: column;
 }
 
 .TopBar {
-    background-color: rgba(255, 255, 255, 0.048);
+    background-color: rgb(59, 255, 124);
     padding: 10px;
     text-align: center;
     flex: 1;
