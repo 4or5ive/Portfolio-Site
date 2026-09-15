@@ -1,5 +1,5 @@
-h1 {
-    color: rgb(48, 30, 218);
+p {
+    color: rgb(202, 202, 202);
 }
 
 body {
@@ -9,13 +9,24 @@ body {
 }
 
 .TopBar {
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    border: 1px dotted rgb(110, 110, 110);
     background-color: rgba(14, 14, 14, 1);
-    padding: 10px;
-    text-align: center;
 }
 
 .Content {
     padding: 10px;
     text-align: center;
     flex: 1;
+}
+
+.menu-dropdown {
+    background-color: rgba(14, 14, 14, 1);
+    color: rgb(202, 202, 202);
+    border: 1px dotted rgb(110, 110, 110);
+    padding: 5px;
+    border-radius: 5px;
+    margin-left: 10px;
 }
